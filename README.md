@@ -10,5 +10,5 @@ Material utilizado:
 
 El filtro hay que recortarlo para que entre correctamente.
 
-Para la sujeción tanto del adaptador del ventilador como de la tapa frontal, se han utiliado tornillos M3x10 y 
-el oled con dos tornillos M2x4
+Para la sujeción tanto del adaptador del ventilador como de la tapa frontal, se han utiliado cuatro tornillos M3x10 y 
+el oled con dos tornillos M2x4 respectivamente
