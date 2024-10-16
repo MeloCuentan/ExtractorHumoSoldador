@@ -8,6 +8,7 @@ Material utilizado:
 - [Filtro de carbón](https://es.aliexpress.com/item/1005001559548317.html)
 - [Conector de corriente](https://es.aliexpress.com/item/32599220409.html)
 
-El filtro hay que recortarlo para que entre correctamente
+El filtro hay que recortarlo para que entre correctamente.
+
 Para la sujeción tanto del adaptador del ventilador como de la tapa frontal, se han utiliado tornillos M3x10 y 
 el oled con dos tornillos M2x4
